@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from datetime import datetime
 import re
 
-API_TOKEN = "7823114637:AAFygTDDBhPEKuut6Hhv-qhFe13AQDNT0L0"
+API_TOKEN = "8144181426:AAFGcrPDx9g_ZDGU36PO83h8bMTvGMuimXM"
 VIDEO_FOLDER = "trailers"
 ADMIN_ID =  5116530698 # Remplacez par votre ID Telegram
 
